@@ -1,6 +1,6 @@
 // Java Program to Print the Elements of an Array
 // Using for loop
-public class GFG {
+public class {
 
     // Main driver method
     public static void main(String[] args)
